@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+    <title>Vcard - Rahmat Saputra</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- <style>
+      /* Set the size of the div element that contains the map */
+      #map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
+    </style> -->
+    <!-- open street map -->
+    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+    <link href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" rel="stylesheet"/>
+
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div id="preloader">
+        <div class="loader"></div>
+    </div>
+
+    <div class="vcard-main-wrapper">
+        <div class="vcard-content-wrapper bg-img" style="background-image: url(img/bg-img/bg6.jpg);">
+
+
+            <!-- Contact Button -->
+            <div class="horizontal-contact-btn">
+                <!-- <a href="./file/CV - Rahmat Saputra.pdf" download class="btn vcard-btn contact-btn"><i class="fa fa-envelope-o"></i><span>Download CV</span></a> -->
+                <a href="./file/CV - Rahmat Saputra.pdf" download class="btn vcard-btn contact-btn "><i class="fa fa-download"></i><span>Download CV</span></a>
+            </div>
+
+
+            <!-- Header Area -->
+            <header class="header_area">
+                <!-- Logo -->
+                <div class="logo d-flex justify-content-center align-items-center">
+                    <a href="https://www.rahmatsaputra.my.id"><img src="img/core-img/logo2.png" alt=""></a>
+                    <!-- Navbar Toggle -->
+                    <div class="nav-toggle">
+                        <i class="fa fa-bars"></i>
+                    </div>
+                </div>
+
+                <!-- Menu -->
+                <ul class="vcard-nav">
+                    <li><a href="about">About</a></li>
+                    <li><a href="blog">Blog</a></li>
+                    <li><a href="skills">Skills</a></li>
+                    <!-- <li><a href="services">Services</a></li> -->
+                    <li><a href="experience">Experience</a></li>
+                    <li><a href="education">Education</a></li>
+                    <li><a href="portfolio">Portfolio</a></li>
+                    <!-- <li><a href="testimonials">Testimonials</a></li> -->
+                    <li class="active"><a href="contact">Contact</a></li>
+                </ul>
+            </header>
+
+            <!-- Vcard Page Content -->
+            <div class="vcard-page-content-wrapper d-flex align-items-end">
+                <div class="page-content">
+
+                    <!-- ##### Contact Area Start ##### -->
+                    <div class="contact--area">
+                        <div class="container-fluid">
+                            <div class="row align-items-end">
+
+                                <!-- Contact Form Area -->
+                                <div class="col-12 col-md-6">
+                                    <div class="contact-area">
+
+                                        <div class="section-heading mb-50">
+                                            <h2>Get in touch</h2>
+                                        </div>
+
+                                        <div class="contact-form-area">
+                                            <form action="https://formspree.io/rahmatsaputra.my.id@gmail.com" method="post">
+                                                <div class="row">
+                                                    <div class="col-12 col-lg-6">
+                                                        <input type="text" class="form-control" id="name" name="name"placeholder="Name">
+                                                    </div>
+                                                    <div class="col-12 col-lg-6">
+                                                        <input type="email" class="form-control" id="email" name="email" placeholder="E-mail">
+                                                    </div>
+                                                    <div class="col-12">
+                                                        <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+                                                    </div>
+                                                    <div class="col-12">
+                                                        <textarea name="message" class="form-control" id="message" cols="30" rows="10" placeholder="Message"></textarea>
+                                                    </div>
+                                                    <div class="col-12">
+                                                        <button class="btn vcard-btn mt-15" type="submit">Send Message</button>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Google Maps -->
+                                <div class="col-12 col-md-6">
+                                    <div class="map-area">
+                                        <div id="osm-map"></div>
+                                        
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63460.985702531274!2d106.831431!3d-6.22258!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f422b00ee429%3A0xa28d5c5a0efbe12e!2sTaman%20Menteng!5e0!3m2!1sen!2sid!4v1590006335741!5m2!1sen!2sid" width="300" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                                        
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- ##### Contact Area End ##### -->
+
+                    <!-- ##### Contact Information Area Start ##### -->
+                    <div class="contact-information">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-12 d-flex flex-wrap align-items-center justify-content-between">
+                                    <!-- Single Contact Information -->
+                                    
+                                    <!-- <div class="single-contact-info d-flex align-items-center">
+                                        <div class="contact-icon">
+                                            <img src="img/core-img/placeholder.png" alt="">
+                                        </div>
+                                        <div class="contact-text">
+                                            <h6>Address:</h6>
+                                            <p>Jl. Menteng Wadas Timur No.2A <br> Jakarta Selatan, 12970</p>
+                                        </div>
+                                    </div>-->
+
+                                    <!-- Single Contact Information -->
+                                    <a href="https://wa.me/6281210197870">
+                                        <div class="single-contact-info d-flex align-items-center">
+                                            <div class="contact-icon">
+                                                <img src="img/core-img/phone-call.png" alt="">
+                                            </div>
+                                            <div class="contact-text">
+                                                <h6>Phone:</h6>
+                                                <p>+62 812 1019 7870</p>
+                                            </div>
+                                        </div>
+                                    </a>
+
+                                    <!-- Single Contact Information -->
+                                    <a href="mailto:rahmatsaputra.my.id@gmail.com">
+                                        <div class="single-contact-info d-flex align-items-center" href="mailto:rahmatsaputra.my.id@gmail.com">
+                                            <div class="contact-icon">
+                                                <img src="img/core-img/envelope.png" alt="">
+                                            </div>
+                                            <div class="contact-text" >
+                                                <h6>Email:</h6>
+                                                <p>rahmatsaputra.my.id@gmail.com</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- ##### Contact Information Area End ##### -->
+
+                    
+                </div>
+            </div>
+            
+            <p>
+                <a href="https://www.rahmatsaputra.my.id">
+                    Copyright &copy; <script>document.write(new Date().getFullYear());</script> Rahmat Saputra, All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+            </p>
+        </div>
+    </div>
+
+    <!-- ##### All Javascript Files ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="js/active.js"></script>
+    <!-- Google Maps -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwuyLRa1uKNtbgx6xAJVmWy-zADgegA2s"></script>
+    <script src="js/google-map/map-active.js"></script>
+
+</body>
+
+</html>

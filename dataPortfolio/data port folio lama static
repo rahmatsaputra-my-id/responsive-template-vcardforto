@@ -1,0 +1,434 @@
+data port folio lama
+
+<div class="row vcard-portfolio">
+
+                                <!-- <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area">
+                                    <a href="img/bg-img/serti/serti1.png" class="img-url"><img src="img/bg-img/serti/serti1.png" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Ijazah SMA</h5>
+                                        <a href="#" class="catagory">Sertifikat
+                                        
+                                    </div>
+                                </div> -->
+
+                                <!-- <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area">
+                                    <a href="img/bg-img/serti/serti2.png" class="img-url"><img src="img/bg-img/serti/serti2.png" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Setara Sarjana Muda</h5>
+                                        <a href="#" class="catagory">Sertifikat
+                                        
+                                    </div>
+                                </div> -->
+
+
+                                <!-- PHOTO DISIMPEN DI imgur rahmatteo.blogphotos@gmail.com -->
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <!-- <a href="https://i.imgur.com/o0WJLlR.jpg" -->
+                                    <a href="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93407270_103781971302715_5169299427738779648_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=_tXs5ld3Pb4AX9Dnvt_&_nc_ht=scontent.fcgk18-2.fna&oh=b7aacd68f9ac34c36161698521a718ed&oe=5EBA98F0"
+                                    class="img-url">
+                                        <img src="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93407270_103781971302715_5169299427738779648_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=_tXs5ld3Pb4AX9Dnvt_&_nc_ht=scontent.fcgk18-2.fna&oh=b7aacd68f9ac34c36161698521a718ed&oe=5EBA98F0" alt="">
+                                    </a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>KOMPRES</h5>
+                                        <a href="#" class="catagory">Certificate</a>
+                                        <a><br>notes</a>
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/92947945_103781494636096_1060955547446018048_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=aJHZp5si0PwAX93bSZv&_nc_ht=scontent.fcgk18-2.fna&oh=da86f047aac747e88d06c0366acbcec0&oe=5EB9472C" 
+                                    class="img-url"><img src="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/92947945_103781494636096_1060955547446018048_o.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_ohc=aJHZp5si0PwAX93bSZv&_nc_ht=scontent.fcgk18-2.fna&oh=da86f047aac747e88d06c0366acbcec0&oe=5EB9472C" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>APPRECIATION</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/s960x960/93022607_103781514636094_9187895800263344128_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_ohc=v7k64nMbOisAX9iHD2e&_nc_ht=scontent.fcgk18-2.fna&_nc_tp=7&oh=7c2cc3b8245d66f3192c4731e6456961&oe=5EBB1720"
+                                    class="img-url"><img src="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/s960x960/93022607_103781514636094_9187895800263344128_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_ohc=v7k64nMbOisAX9iHD2e&_nc_ht=scontent.fcgk18-2.fna&_nc_tp=7&oh=7c2cc3b8245d66f3192c4731e6456961&oe=5EBB1720" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>WORKSHOP</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93243510_103781991302713_8736446625230094336_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=FVnGczD6tZcAX9yIdoK&_nc_ht=scontent.fcgk18-2.fna&oh=9584556efb0ff1ce6e19c4c519b928cc&oe=5EBA2C54" 
+                                    class="img-url"><img src="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93243510_103781991302713_8736446625230094336_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=FVnGczD6tZcAX9yIdoK&_nc_ht=scontent.fcgk18-2.fna&oh=9584556efb0ff1ce6e19c4c519b928cc&oe=5EBA2C54" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>APPRECIATION</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>  
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/93378687_103782254636020_999058729338929152_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=7dHAQlM5N-QAX-vekcy&_nc_ht=scontent.fcgk18-1.fna&oh=77de2d85161f6ef02a3dec46c5e1ff1e&oe=5EB7B0EA" 
+                                    class="img-url"><img src="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/93378687_103782254636020_999058729338929152_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=7dHAQlM5N-QAX-vekcy&_nc_ht=scontent.fcgk18-1.fna&oh=77de2d85161f6ef02a3dec46c5e1ff1e&oe=5EB7B0EA" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>APPRECIATION</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93216595_103782471302665_7562116246250979328_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=g9WQT849BxMAX8nJjau&_nc_ht=scontent.fcgk18-2.fna&oh=942764d5ba83c7f6094f04d710cc9344&oe=5EB7C9DE"
+                                    class="img-url"><img src="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93216595_103782471302665_7562116246250979328_o.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=g9WQT849BxMAX8nJjau&_nc_ht=scontent.fcgk18-2.fna&oh=942764d5ba83c7f6094f04d710cc9344&oe=5EB7C9DE" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>APPRECIATION</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/92363085_103781467969432_8393458744654036992_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_ohc=I_AcT7JzTgUAX-UPaqZ&_nc_ht=scontent.fcgk18-2.fna&oh=177ac2821f6d9c3c115781ff926f68df&oe=5EB8B7D5"
+                                    class="img-url"><img src="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/92363085_103781467969432_8393458744654036992_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_ohc=I_AcT7JzTgUAX-UPaqZ&_nc_ht=scontent.fcgk18-2.fna&oh=177ac2821f6d9c3c115781ff926f68df&oe=5EB8B7D5" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>ACHIEVEMENT</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/92464310_103781541302758_4967099501383778304_o.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_ohc=tFVSp_acDToAX83-6A_&_nc_ht=scontent.fcgk18-2.fna&oh=8942786e5a69c068b5f57eb11e195045&oe=5EBB648D"
+                                    class="img-url"><img src="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/92464310_103781541302758_4967099501383778304_o.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_ohc=tFVSp_acDToAX83-6A_&_nc_ht=scontent.fcgk18-2.fna&oh=8942786e5a69c068b5f57eb11e195045&oe=5EBB648D" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>ACHIEVEMENT</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/93136935_103781587969420_3255692893788045312_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=1x5wfP1DgtcAX9hlSlG&_nc_ht=scontent.fcgk18-1.fna&oh=c04eb47458090f00fdc8c7c35961d20e&oe=5EB99128"
+                                    class="img-url"><img src="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/93136935_103781587969420_3255692893788045312_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=1x5wfP1DgtcAX9hlSlG&_nc_ht=scontent.fcgk18-1.fna&oh=c04eb47458090f00fdc8c7c35961d20e&oe=5EB99128" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>ACHIEVEMENT</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/92843848_103781747969404_7880306102351429632_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=Iuuzr89S88wAX8ILBJ_&_nc_ht=scontent.fcgk18-1.fna&oh=01e46571a5c4c9275cf1e2ea406c75eb&oe=5EB7FBAD"
+                                    class="img-url"><img src="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/92843848_103781747969404_7880306102351429632_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=Iuuzr89S88wAX8ILBJ_&_nc_ht=scontent.fcgk18-1.fna&oh=01e46571a5c4c9275cf1e2ea406c75eb&oe=5EB7FBAD" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>ACHIEVEMENT</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93292143_103781777969401_2161774361403457536_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_ohc=QKIVu78MeOoAX9GiM4Z&_nc_ht=scontent.fcgk18-2.fna&oh=e0b2262d988945e026cf394eda84303a&oe=5EBA9307"
+                                    class="img-url"><img src="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93292143_103781777969401_2161774361403457536_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_ohc=QKIVu78MeOoAX9GiM4Z&_nc_ht=scontent.fcgk18-2.fna&oh=e0b2262d988945e026cf394eda84303a&oe=5EBA9307" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>ACHIEVEMENT</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93566590_103782297969349_3434790590489821184_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=r4kTvKkrUXUAX-16t5V&_nc_ht=scontent.fcgk18-2.fna&oh=0cb4ecd130f5119c922a19bd3e0cb2bd&oe=5EB8190C"
+                                    class="img-url"><img src="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93566590_103782297969349_3434790590489821184_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_ohc=r4kTvKkrUXUAX-16t5V&_nc_ht=scontent.fcgk18-2.fna&oh=0cb4ecd130f5119c922a19bd3e0cb2bd&oe=5EB8190C" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>ACHIEVEMENT</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/93111677_103781721302740_536339225113526272_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=DOEa-hQj44gAX-X6h7I&_nc_ht=scontent.fcgk18-1.fna&oh=5111ab3e0494dc5711d3214e11cabdee&oe=5EBA57BB"
+                                    class="img-url"><img src="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/93111677_103781721302740_536339225113526272_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=DOEa-hQj44gAX-X6h7I&_nc_ht=scontent.fcgk18-1.fna&oh=5111ab3e0494dc5711d3214e11cabdee&oe=5EBA57BB" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>ACHIEVEMENT</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/93069761_103781797969399_8693821840776232960_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=yCsjUPxl5SwAX-2bdej&_nc_ht=scontent.fcgk18-1.fna&oh=9a7c627b0fa4ea675bccf6a60595ec65&oe=5EB9CE80"
+                                    class="img-url"><img src="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/93069761_103781797969399_8693821840776232960_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=yCsjUPxl5SwAX-2bdej&_nc_ht=scontent.fcgk18-1.fna&oh=9a7c627b0fa4ea675bccf6a60595ec65&oe=5EB9CE80" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>ACHIEVEMENT</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/93377733_103781811302731_1464102609735385088_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=V_AYsSlYjOIAX_igB1z&_nc_ht=scontent.fcgk18-1.fna&oh=4d149355780225055b275e11529bb819&oe=5EB97BA4"
+                                    class="img-url"><img src="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/93377733_103781811302731_1464102609735385088_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=V_AYsSlYjOIAX_igB1z&_nc_ht=scontent.fcgk18-1.fna&oh=4d149355780225055b275e11529bb819&oe=5EB97BA4" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>ACHIEVEMENT</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area achievement">
+                                    <a href="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/93384048_103781834636062_490514638484537344_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=3LLpGniFa5UAX8yT5kN&_nc_ht=scontent.fcgk18-1.fna&oh=8963291d0f76cc77d8c9fdd432c70d08&oe=5EB9C1AD" 
+                                    class="img-url"><img src="https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/93384048_103781834636062_490514638484537344_o.jpg?_nc_cat=111&_nc_sid=e007fa&_nc_ohc=3LLpGniFa5UAX8yT5kN&_nc_ht=scontent.fcgk18-1.fna&oh=8963291d0f76cc77d8c9fdd432c70d08&oe=5EB9C1AD" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>ACHIEVEMENT</h5>
+                                        <a href="#" class="catagory">Certificate
+                                        
+                                    </div>
+                                </div>
+                                
+                                <!-- <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area hiragana">
+                                    <a href="https://i.imgur.com/SNbPSEl.png"
+                                    class="img-url"><img src="https://i.imgur.com/SNbPSEl.png" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Home</h5>
+                                        <a href="#" class="catagory">Hiragana App
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area hiragana">
+                                    <a href="https://i.imgur.com/UrQ0FSi.png"
+                                    class="img-url"><img src="https://i.imgur.com/UrQ0FSi.png" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>List Hiragana Alphabet</h5>
+                                        <a href="#" class="catagory">Hiragana App
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area hiragana">
+                                    <a href="https://i.imgur.com/EIXmWuQ.png"
+                                    class="img-url"><img src="https://i.imgur.com/EIXmWuQ.png" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Menu Hiragana Alphabet</h5>
+                                        <a href="#" class="catagory">Hiragana App
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area hiragana">
+                                    <a href="https://i.imgur.com/KJjQ2w8.png"
+                                    class="img-url"><img src="https://i.imgur.com/KJjQ2w8.png" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Object List</h5>
+                                        <a href="#" class="catagory">Hiragana App
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area hiragana">
+                                    <a href="https://i.imgur.com/3Xmpmme.png"
+                                    class="img-url"><img src="https://i.imgur.com/3Xmpmme.png" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Menu Object</h5>
+                                        <a href="#" class="catagory">Hiragana App
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area hiragana">
+                                    <a href="https://i.imgur.com/R7thHCh.png"
+                                    class="img-url"><img src="https://i.imgur.com/R7thHCh.png" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>List Hiragana Practice</h5>
+                                        <a href="#" class="catagory">Hiragana App
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area hiragana">
+                                    <a href="https://i.imgur.com/tQlqDy0.png" 
+                                    class="img-url"><img src="https://i.imgur.com/tQlqDy0.png" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Hiragana Practice</h5>
+                                        <a href="#" class="catagory">Hiragana App
+                                        
+                                    </div>
+                                </div>     
+                                
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area hiragana">
+                                    <a href="https://i.imgur.com/cT4MlB7.png" 
+                                    class="img-url"><img src="https://i.imgur.com/cT4MlB7.png" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>List Hiragana Training</h5>
+                                        <a href="#" class="catagory">Hiragana App
+                                        
+                                    </div>
+                                </div>    
+                                
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area hiragana">
+                                    <a href="https://i.imgur.com/N6zFzW0.png" 
+                                    class="img-url"><img src="https://i.imgur.com/N6zFzW0.png" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Hiragana Training</h5>
+                                        <a href="#" class="catagory">Hiragana App
+                                        
+                                    </div>
+                                </div>
+                                 -->
+                                                            
+                                
+                                <!-- <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area web brand">
+                                    <a href="img/bg-img/p1.jpg" class="img-url"><img src="img/bg-img/p1.jpg" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Brand identity - Company</h5>
+                                        <a href="#" class="catagory">Branding
+                                        
+                                        <div class="vcard-img-zoom">
+                                            <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area brand illustrations">
+                                    <a href="img/bg-img/p2.jpg" class="img-url"><img src="img/bg-img/p2.jpg" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Device Mockup</h5>
+                                        <a href="#" class="catagory">Digital Design</a>
+                                        
+                                            <div class="vcard-img-zoom">
+                                                <i class="fa fa-search-plus" aria-hidden="true"></i>
+                                            </div>
+                                    </div>
+                                </div>
+
+                                
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area web illustrations">
+                                    <a href="img/bg-img/p3.jpg" class="img-url"><img src="img/bg-img/p3.jpg" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Brand identity - Company</h5>
+                                        <a href="#" class="catagory">Digital Design</a>
+                                        
+                                        <div class="vcard-img-zoom">
+                                            <i class="fa fa-search-plus" aria-hidden="true"></i>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area brand motion">
+                                    <a href="img/bg-img/p4.jpg" class="img-url"><img src="img/bg-img/p4.jpg" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Device Mockup</h5>
+                                        <a href="#" class="catagory">Digital Design</a>
+                                        
+                                        <div class="vcard-img-zoom">
+                                            <i class="fa fa-search-plus" aria-hidden="true"></i>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area brand motion">
+                                    <a href="img/bg-img/p6.jpg" class="img-url"><img src="img/bg-img/p6.jpg" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Brand identity - Company</h5>
+                                        <a href="#" class="catagory">Digital Design</a>
+                                        
+                                        <div class="vcard-img-zoom">
+                                            <i class="fa fa-search-plus" aria-hidden="true"></i>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area web motion">
+                                    <a href="img/bg-img/p8.jpg" class="img-url"><img src="img/bg-img/p8.jpg" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Device Mockup</h5>
+                                        <a href="#" class="catagory">Digital Design</a>
+                                        
+                                        <div class="vcard-img-zoom">
+                                            <i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area illustrations motion">
+                                    <a href="img/bg-img/p5.jpg" class="img-url"><img src="img/bg-img/p5.jpg" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Brand identity - Company</h5>
+                                        <a href="#" class="catagory">Digital Design</a>
+                                        
+                                        <div class="vcard-img-zoom">
+                                            <a href="img/bg-img/p5.jpg" class="img-url"><i class="fa fa-search-plus" aria-hidden="true"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area illustrations motion">
+                                     <a href="img/bg-img/p7.jpg" class="img-url"><img src="img/bg-img/p7.jpg" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Device Mockup</h5>
+                                        <a href="#" class="catagory">Digital Design</a>
+                                        
+                                        <div class="vcard-img-zoom">
+                                           <i class="fa fa-search-plus" aria-hidden="true"></i>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                <div class="col-12 col-sm-6 col-xl-4 single-portfolio-area web motion">
+                                    <a href="img/bg-img/p9.jpg" class="img-url"><img src="img/bg-img/p9.jpg" alt=""></a>
+                                    
+                                    <div class="portfolio-content">
+                                        <h5>Device Mockup</h5>
+                                        <a href="#" class="catagory">Digital Design</a>
+                                        
+                                        <div class="vcard-img-zoom">
+                                            <i class="fa fa-search-plus" aria-hidden="true"></i>
+                                        </div>
+                                    </div>
+                                </div> -->
+
+                            </div>
